@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "id": "demo1234567890abcdef",
+    "page_title": "お礼読み上げ",
+    "video_title": "サンプル配信",
+    "source_url": "",
+    "created_at": "2026-06-12T11:50:00+09:00",
+    "schema_version": 1
+  },
+  "items": [
+    {
+      "sent_at": "2026-06-12T20:13:00+09:00",
+      "time": "20:13",
+      "author_name": "Aoi",
+      "kind": "super_chat",
+      "amount": 500,
+      "currency": "¥",
+      "amount_text": "¥500",
+      "message": "いつも楽しい配信ありがとうございます！"
+    },
+    {
+      "sent_at": "2026-06-12T20:25:00+09:00",
+      "time": "20:25",
+      "author_name": "Haruka",
+      "kind": "super_chat",
+      "amount": 1000,
+      "currency": "¥",
+      "amount_text": "¥1,000",
+      "message": "アーカイブ勢ですが応援しています。"
+    },
+    {
+      "sent_at": "2026-06-12T20:41:00+09:00",
+      "time": "20:41",
+      "author_name": "Mika",
+      "kind": "milestone",
+      "amount": null,
+      "currency": "",
+      "amount_text": "",
+      "message": "メンバー12か月になりました。これからも楽しみです。"
+    },
+    {
+      "sent_at": "2026-06-12T20:56:00+09:00",
+      "time": "20:56",
+      "author_name": "Ren",
+      "kind": "super_sticker",
+      "amount": 320,
+      "currency": "¥",
+      "amount_text": "¥320",
+      "message": "Super Sticker"
+    }
+  ]
+}
